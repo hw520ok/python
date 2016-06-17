@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="emotion">
+    <file>bishi.png</file>
+    <file>chou.png</file>
+    <file>cry.png</file>
+    <file>dao.png</file>
+    <file>daoshou.png</file>
+    <file>deyi.png</file>
+    <file>fan.png</file>
+    <file>han.png</file>
+    <file>haxiao.png</file>
+    <file>heixian.png</file>
+    <file>hua.png</file>
+    <file>hx.png</file>
+    <file>jing.png</file>
+    <file>kaixin.png</file>
+    <file>nu.png</file>
+    <file>se.png</file>
+    <file>weisuo.png</file>
+    <file>wg.png</file>
+    <file>xin.png</file>
+    <file>xinsui.png</file>
+    <file>yun.png</file>
+    <file>zan.png</file>
+  </qresource>
+</RCC>
